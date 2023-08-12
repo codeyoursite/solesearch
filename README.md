@@ -1,4 +1,3 @@
 # Shoelace
 ## Created by "The Guy That Loves HTML"
-<link href="main.css" rel="stylesheet">
-<button type="button" href="//theguythatloveshtml.github.io/shoestrap" class="btn-primary">Visit the Shoelace site</button>. 
+<p>Created by <a href="theguythatloveshtml.github.io"><img height="30" src="https://theguythatloveshtml.github.io/Logo.jpg"></a>
