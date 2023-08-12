@@ -10,8 +10,8 @@
           </a>
       </td>
       <td>
-          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
-          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/cover-bootstrap-5-1.png">
+          <a href="https://tinyurl.com/riabookclub">
+          		<button style="color:white;background:#89CFF0;">Visit RIA Book Club</button>
           </a>
       </td>
     </tr>
