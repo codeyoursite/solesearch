@@ -28,6 +28,14 @@ All you have to do to start is enter this link in the **head** tag of your html:
 <link rel="stylesheet" src="https://theguythatloveshtml.github.io/shoelace/main.css">
 ```
 ---
-### Body Classes
-#### Fonts
-There are lots of different fonts that you can use in your **body** tag. Below are the names of the classes that you can use.
+### Fonts
+There are lots of different fonts that you can use in your **body** tag. Most are using [Google Fonts](fonts.google.com). Below are the names of the classes that you can insert.
+#### Examples
+```html
+<div class="trebuchet"></div>
+<div class="roboto"></div>
+<div class="lato"></div>
+<div class="montserrat"></div>
+<div class="nunito"></div>
+<div class="poppins"></div>
+```
