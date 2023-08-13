@@ -19,3 +19,10 @@
 
 ---
 ## Documentation
+Create websites in seconds with our highly advanced **CSS** pages.
+
+### Get Started and Installation
+All you have to do to start is enter this link in your head:
+'''html
+does this work
+'''
