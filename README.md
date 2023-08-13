@@ -14,4 +14,7 @@
           </a>
       </td>
     </tr>
+  </tbody>
+</table>
+---
 ## Documentation
