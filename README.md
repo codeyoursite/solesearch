@@ -29,7 +29,7 @@ All you have to do to start is enter this link in the **head** tag of your html:
 ```
 ---
 ### Fonts
-There are lots of different fonts that you can use in your **body** tag. Most are using [Google Fonts](fonts.google.com). Below are the names of the classes that you can insert.
+There are lots of different fonts that you can use in your **html**. Most are using [Google Fonts](https://fonts.google.com). Below are the names of the classes that you can insert.
 #### Examples
 ```html
 <div class="trebuchet"></div>
