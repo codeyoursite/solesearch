@@ -5,13 +5,13 @@
   <tbody>
     <tr>
       <td align="center">
-         <a href="https://mdbootstrap.com/docs/standard/getting-started/" alt="Bootstrap Tutorials" rel="dofollow">
-          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/learnmore-1.png">
+         <a href="https://tinyurl.com/riabookclub" rel="dofollow">
+          		<img src="https://theguythatloveshtml.github.io/ria/IMG_1462.jpeg">
           </a>
       </td>
       <td>
           <a href="https://tinyurl.com/riabookclub">
-          		<button style="color:white;background:#89CFF0;">Visit RIA Book Club</button>
+  Visit RIA Book Club
           </a>
       </td>
     </tr>
