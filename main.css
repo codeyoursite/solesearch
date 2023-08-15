@@ -16,7 +16,7 @@ body {
   background:#0a58ca;
   border-color:#0a53be;
 }
-btn {
+.btn {
   -webkit-transition: all 2s ease-out;
   -moz-transition: all 2s ease-out;
   -o-transition: all 2s ease-out;
