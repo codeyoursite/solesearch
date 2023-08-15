@@ -1,38 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Nunito&family=Poppins&family=Roboto&display=swap');
 body {
   margin: 0;
 }
-.trebuchet {
-  font-family: 'Trebuchet MS', sans-serif;
-}
-.roboto {
-  font-family: 'Roboto', sans-serif;
-}
-.lato {
-  font-family: 'Lato', sans-serif;
-}
-.montserrat {
-  font-family: 'Montserrat', sans-serif;
-}
-.nunito {
-  font-family: 'Nunito', sans-serif;
-}
-.poppins {
-  font-family: 'Poppins', sans-serif;
-}
 .btn-primary {
-  color:#fff;
-  background:#0d6efd;
-  border-color:#0d6efd;
+  color: #fff;
+  background: #0d6efd;
+  border-color: #0d6efd;
+  border-radius: 12px;
+  -webkit-transition: all 2s ease-out;
+  -moz-transition: all 2s ease-out;
+  -o-transition: all 2s ease-out;
+  transition: all 2s ease-out;
 }
 .btn-primary:hover {
   color: #fff;
-  background:#0b5ed7;
-  border-color:#0a58ca;
+  background: #0b5ed7;
+  border-color: #0a58ca;
+  border-radius: 12px;
 }
 .btn-primary:active {
   color:#fff;
   background:#0a58ca;
   border-color:#0a53be;
-  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
