@@ -1,6 +1,6 @@
 .btn {
   margin: .25rem .125rem;
 }
-.primary-btn {
+.primary-btn, h1 {
   margin-left: 15px;
 }
