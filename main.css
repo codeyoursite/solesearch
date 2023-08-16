@@ -21,5 +21,6 @@ body {
   -moz-transition: all 2s ease-out;
   -o-transition: all 2s ease-out;
   transition: all 2s ease-out;
-  border-radius: 12px;
+  border-radius: 5px;
+  padding: 8px;
 }
