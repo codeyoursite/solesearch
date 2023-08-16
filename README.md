@@ -25,7 +25,7 @@ Create websites in seconds with our highly advanced **CSS** pages.
 ### Get Started and Installation
 All you have to do to start is enter this link in the **head** tag of your html:
 ```html
-<link rel="stylesheet" href="cdn.jsdelivr.net/gh/codeyoursite/shoelace@008c36580184fa7dee9943bc02ebc96a11085ee0/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codeyoursite/shoelace@008c36580184fa7dee9943bc02ebc96a11085ee0/main.css">
 ```
 ---
 ### Fonts
