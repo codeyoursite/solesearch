@@ -13,9 +13,12 @@ body {
   border-color: #0a58ca;
 }
 .primary-btn:active {
-  color:#fff;
   background:#0a58ca;
   border-color:#0a53be;
+}
+.white-btn {
+  color: #000;
+  backgrouund: #f8f9fb;
 }
 .btn {
   -webkit-transition: all 2s ease-out;
@@ -26,11 +29,9 @@ body {
   padding: 8px;
   transition: all .35s;
 }
-
 .zoom {
   transition: transform .25s;
 }
-
 .zoom:hover {
   transform: scale(1.25);
 }
