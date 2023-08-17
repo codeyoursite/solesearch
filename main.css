@@ -23,9 +23,13 @@ body {
   transition: all 2s ease-out;
   border-radius: 5px;
   padding: 8px;
+  transition: all .35s;
+}
+
+.zoom {
   transition: transform .25s;
 }
 
-.btn:hover {
+.zoom:hover {
   transform: scale(1.25);
 }
