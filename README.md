@@ -28,14 +28,9 @@ All you have to do to start is enter this link in the **head** tag of your html:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codeyoursite/shoelace@2669e17e7cbc2adb66df45bf9e422adf58e62697/main.css">
 ```
 ---
-### Fonts
-There are lots of different fonts that you can use in your **html**. Most are using [Google Fonts](https://fonts.google.com). Below are the names of the classes that you can insert.
+### Error
+Please check back soon.
 #### Examples
 ```html
-<div class="trebuchet"></div>
-<div class="roboto"></div>
-<div class="lato"></div>
-<div class="montserrat"></div>
-<div class="nunito"></div>
-<div class="poppins"></div>
+Error{nom: 26745}
 ```
