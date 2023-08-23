@@ -9,16 +9,29 @@ body {
   transition: all .35s;
 }
 .primary-btn:hover {
+  color: #fff;
   background: #0b5ed7;
   border-color: #0a58ca;
 }
 .primary-btn:active {
-  background:#0a58ca;
-  border-color:#0a53be;
+  color: #fff;
+  background: #0a58ca;
+  border-color: #0a53be;
 }
 .white-btn {
   color: #000;
   backgrouund: #f8f9fb;
+  border-color: #f8f9fb;
+}
+.white-btn:hover {
+  color: #000;
+  background: #d3d4d5;
+  border-color: #c6c7c8;
+}
+.white-btn:active {
+  color: #000;
+  background: #c6c7c8;
+  border-color: #babbbd;
 }
 .btn {
   -webkit-transition: all 2s ease-out;
@@ -30,7 +43,7 @@ body {
   transition: all .35s;
 }
 .zoom {
-  transition: transform .25s;
+  transition: all .25s;
 }
 .zoom:hover {
   transform: scale(1.25);
