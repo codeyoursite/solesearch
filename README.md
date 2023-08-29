@@ -25,7 +25,7 @@ Create websites in seconds with our highly advanced **CSS** pages.
 ### Get Started and Installation
 All you have to do to start is enter this link in the **head** tag of your html:
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codeyoursite/shoelace@2669e17e7cbc2adb66df45bf9e422adf58e62697/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codeyoursite/shoelace@f4bef97588d836cd8dafa4b64a58d01663548241/main.css">
 ```
 ---
 ### Error
