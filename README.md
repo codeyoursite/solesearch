@@ -1,4 +1,4 @@
-# Shoelace
+# Shoelace Buttons
 <h3>Created by <br><a href="https://codeyoursite.github.io"><img height="50" src="https://codeyoursite.github.io/Logo.jpg"></a></h3>
 <table>
   <tbody>
