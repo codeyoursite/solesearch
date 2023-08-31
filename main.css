@@ -36,10 +36,10 @@ body {
   border-color: #babbbd;
 }
 .btn {
-  -webkit-transition: all .35;
+  -webkit-transition: all .35s;
   -moz-transition: all .35s;
   -o-transition: all .35s;
-  transition: all 2s ease-out;
+  transition: all .35s;
   border-radius: 5px;
   padding: 8px;
   color: var(--ss-btn-color);
