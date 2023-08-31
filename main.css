@@ -11,13 +11,13 @@ body {
   --ss-btn-border-color: #0d6efd;
 }
 .primary-btn:hover {
-  --ss-btn-color: var(--ss-white);
+  --ss-btn-hover-color: var(--ss-white);
   --ss-btn-hover-bg: #0b5ed7;
   --ss-btn-hover-border-color: #0a58ca;
 }
 .primary-btn:active {
-  color: #fff;
-  background: #0a58ca;
+  --ss-btn-active-color: var(--ss-white);
+  --ss-btn-active-bg: #0b5ed7;
   border-color: #0a53be;
 }
 .white-btn {
@@ -47,8 +47,13 @@ body {
   border-color: var(--ss-btn-border-color);
 }
 .btn:hover {
+  color: var(--ss-btn-hover-color);
   background: var(--ss-btn-hover-bg);
   border-color: var(--ss-btn-hover-border-color);
+}
+.btn:active {
+  color: var(--ss-btn-active-color);
+  background: var(--ss-btn-active-bg);
 }
 .zoom:hover {
   transform: scale(1.25);
