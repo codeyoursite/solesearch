@@ -9,7 +9,6 @@ body {
   --ss-btn-color: var(--ss-white);
   --ss-btn-bg: #0d6efd;
   --ss-btn-border-color: #0d6efd;
-  transition: all .35s;
 }
 .primary-btn:hover {
   --ss-btn-color: var(--ss-white);
@@ -37,13 +36,12 @@ body {
   border-color: #babbbd;
 }
 .btn {
-  -webkit-transition: all 2s ease-out;
-  -moz-transition: all 2s ease-out;
-  -o-transition: all 2s ease-out;
+  -webkit-transition: all .35;
+  -moz-transition: all .35s;
+  -o-transition: all .35s;
   transition: all 2s ease-out;
   border-radius: 5px;
   padding: 8px;
-  transition: all .35s;
   color: var(--ss-btn-color);
   background: var(--ss-btn-bg);
   border-color: var(--ss-btn-border-color);
@@ -51,9 +49,6 @@ body {
 .btn:hover {
   background: var(--ss-btn-hover-bg);
   border-color: var(--ss-btn-hover-border-color);
-}
-.zoom {
-  transition: all .25s;
 }
 .zoom:hover {
   transform: scale(1.25);
