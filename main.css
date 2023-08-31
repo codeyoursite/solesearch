@@ -6,13 +6,13 @@ body {
   font-family: system-ui,-apple-system,"Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", sans-serif, Arial;
 }
 .primary-btn {
-  --ss-btn-color: --ss-white;
+  --ss-btn-color: var(--ss-white);
   --ss-btn-bg: #0d6efd;
   border-color: #0d6efd;
   transition: all .35s;
 }
 .primary-btn:hover {
-  --ss-btn-color: --ss-white;
+  --ss-btn-color: var(--ss-white);
   background: #0b5ed7;
   border-color: #0a58ca;
 }
@@ -44,8 +44,8 @@ body {
   border-radius: 5px;
   padding: 8px;
   transition: all .35s;
-  color: --ss-btn-color;
-  background: --ss-btn-bg;
+  color: var(--ss-btn-color);
+  background: var(--ss-btn-bg);
 }
 .zoom {
   transition: all .25s;
