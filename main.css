@@ -6,8 +6,8 @@ body {
   font-family: system-ui,-apple-system,"Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", sans-serif, Arial;
 }
 .primary-btn {
-  color: #fff;
-  background: #0d6efd;
+  --ss-btn-color: --ss-white;
+  --ss-btn-bg: #0d6efd;
   border-color: #0d6efd;
   transition: all .35s;
 }
@@ -45,6 +45,7 @@ body {
   padding: 8px;
   transition: all .35s;
   color: --ss-btn-color;
+  background: --ss-btn-bg;
 }
 .zoom {
   transition: all .25s;
