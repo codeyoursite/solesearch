@@ -1,5 +1,6 @@
 :root {
   --ss-white: #fff;
+  --ss-black: #000;
 }
 body {
   margin: 0;
@@ -9,31 +10,23 @@ body {
   --ss-btn-color: var(--ss-white);
   --ss-btn-bg: #0d6efd;
   --ss-btn-border-color: #0d6efd;
-}
-.primary-btn:hover {
   --ss-btn-hover-color: var(--ss-white);
   --ss-btn-hover-bg: #0b5ed7;
   --ss-btn-hover-border-color: #0a58ca;
-}
-.primary-btn:active {
   --ss-btn-active-color: var(--ss-white);
   --ss-btn-active-bg: #0b5ed7;
-  border-color: #0a53be;
+  --ss-btn-active-border-color: #0a53be;
 }
 .white-btn {
-  color: #000;
-  backgrouund: #f8f9fb;
-  border-color: #f8f9fb;
-}
-.white-btn:hover {
-  color: #000;
-  background: #d3d4d5;
-  border-color: #c6c7c8;
-}
-.white-btn:active {
-  color: #000;
-  background: #c6c7c8;
-  border-color: #babbbd;
+  --ss-btn-color: var(--ss-black);
+  --ss-btn-bg: #f8f9fb;
+  --ss-btn-border-color: #f8f9fb;
+  --ss-btn-hover-color: var(--ss-black);
+  --ss-btn-hover-bg: #d3d4d5;
+  --ss-btn-hover-border-color: #c6c7c8;
+  --ss-btn-active-color: var(--ss-black);
+  --ss-btn-active-bg: #c6c7c8;
+  --ss-btn-active-border-color: #babbbd;
 }
 .btn {
   -webkit-transition: all .35s;
@@ -54,6 +47,7 @@ body {
 .btn:active {
   color: var(--ss-btn-active-color);
   background: var(--ss-btn-active-bg);
+  border-color: var(--ss-btn-active-border-color);
 }
 .zoom:hover {
   transform: scale(1.25);
