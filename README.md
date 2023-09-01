@@ -29,4 +29,4 @@ All you have to do to start is enter this link in the **head** tag of your html:
 ```
 ---
 ### Buttons
-See the selection of different buttons [here](https://stackblitz.com/edit/solesearch-buttons?file=index.html]
+See the selection of different buttons [here](https://stackblitz.com/edit/solesearch-buttons?file=index.html)
