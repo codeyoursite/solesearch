@@ -26,6 +26,16 @@ body {
   --ss-btn-active-color: var(--ss-black);
   --ss-btn-active-bg: #c6c7c8;
 }
+.black-btn {
+  --ss-btn-color: var(--ss-white);
+  --ss-btn-bg: var(--ss-black);
+  --ss-btn-border-color: #000;
+  --ss-btn-hover-color: var(--ss-white);
+  --ss-btn-hover-bg: #292929;
+  --ss-btn-hover-border-color: #292929;
+  --ss-btn-active-color: var(--ss-white);
+  --ss-btn-active-bg: #404040;
+}
 .zoom {
   --ss-zoom-hover-scale: 1.25;
 }
