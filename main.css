@@ -15,7 +15,6 @@ body {
   --ss-btn-hover-border-color: #0a58ca;
   --ss-btn-active-color: var(--ss-white);
   --ss-btn-active-bg: #0b5ed7;
-  --ss-btn-active-border-color: #0a53be;
 }
 .white-btn {
   --ss-btn-color: var(--ss-black);
@@ -26,7 +25,6 @@ body {
   --ss-btn-hover-border-color: #c6c7c8;
   --ss-btn-active-color: var(--ss-black);
   --ss-btn-active-bg: #c6c7c8;
-  --ss-btn-active-border-color: #babbbd;
 }
 .btn {
   -webkit-transition: all .35s;
@@ -47,7 +45,6 @@ body {
 .btn:active {
   color: var(--ss-btn-active-color);
   background: var(--ss-btn-active-bg);
-  border-color: var(--ss-btn-active-border-color);
 }
 .zoom:hover {
   transform: scale(1.25);
