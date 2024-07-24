@@ -26,6 +26,12 @@ body {
   --ss-btn-active-color: var(--ss-black);
   --ss-btn-active-bg: #c6c7c8;
 }
+.zoom {
+  --ss-zoom-hover-scale: 1.25;
+}
+.large {
+  --ss-large-hover-scale: 1.25;
+}
 .btn {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
@@ -47,5 +53,10 @@ body {
   background: var(--ss-btn-active-bg);
 }
 .zoom:hover {
-  transform: scale(1.25);
+  transform: scale(var(--ss-zoom-hover-scale));
+}
+.large {
+  padding: 12px;
+  border-radius: 7px;
+  transform: scale(var(--ss-large-hover-scale));
 }
